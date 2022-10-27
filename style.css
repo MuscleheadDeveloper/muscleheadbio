@@ -92,7 +92,7 @@ a:hover{
 .projects {
   display: flex;
   flex-direction: column;
-  gap: 30vh;
+  gap: 15vh;
   padding: 0px 100px;
 }
 
